@@ -1,4 +1,4 @@
-Scaffold-ETH 2 - Lottery Customization
+Scaffold-ETH 2 - Ballot Customization
 
 - Description:
 
@@ -6,7 +6,7 @@ Forked from Scaffold-ETH 2 to customize it for my ballot-based voting system usi
 
 - Modifications included:
 ✅ Custom frontend adjustments to handle the voting process.
-✅ Implementation of new smart contracts tailored for the lottery logic.
+✅ Implementation of new smart contracts tailored for the ballot logic.
 ✅ UI enhancements to display real-time participation and results.
 
 📌 Installation & Usage:
